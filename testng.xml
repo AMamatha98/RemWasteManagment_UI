@@ -2,7 +2,6 @@
     <test name="LoginFirst">
         <classes>
             <class name="tests.LoginTest"/>
-<!--            <class name="tests.CreateCustTest"/>-->
         </classes>
     </test>
 </suite>
