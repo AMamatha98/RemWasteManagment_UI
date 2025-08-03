@@ -1,6 +1,6 @@
 # Web_Automation – Selenium Test Suite
 
-This is a **UI Test Automation Framework** for the **REM Waste Management** React Admin application. It uses **Selenium WebDriver**, **TestNG**, and **ExtentReports** with a Page Object Model (POM) design.
+This is a **UI Test Automation Framework** for the React Admin application. It uses **Selenium WebDriver**, **TestNG**, and **ExtentReports** with a Page Object Model (POM) design.
 
 ---
 
