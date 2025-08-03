@@ -1,4 +1,4 @@
-# RemWasteManagement_UIAutomation – Selenium Test Suite
+# Web_Automation – Selenium Test Suite
 
 This is a **UI Test Automation Framework** for the **REM Waste Management** React Admin application. It uses **Selenium WebDriver**, **TestNG**, and **ExtentReports** with a Page Object Model (POM) design.
 
@@ -30,7 +30,7 @@ This framework validates UI functionalities such as:
 ---
 
 ## 📂 Project Structure
-RemWasteManagement_UIAutomation/
+Web_Automation/
 │
 ├── src/
 │ ├── main/
@@ -67,8 +67,8 @@ RemWasteManagement_UIAutomation/
 ### 1. Clone the Project
 
 ```bash
-git clone https://github.com/your-username/RemWasteManagement_UIAutomation.git
-cd RemWasteManagement_UIAutomation
+git clone https://github.com/your-username/Web_Automation.git
+cd Web_Automation
 
 2. Configure Test Details**
 Update browser configuration or application URL if needed inside BaseClass.java.
